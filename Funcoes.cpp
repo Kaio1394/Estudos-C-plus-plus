@@ -6,16 +6,17 @@ void maiorNumero(int numero1, int numero2) {
     switch (simOuNao)
     {
     case true:
-        cout << "Numero 1 eh maior do que o numero 2." << endl;
+        cout << "Number 1 is greater than number 2." << endl;
         break;
     case false:
-        cout << "Numero 2 eh maior do que o numero 1." << endl;
+        cout << "Number 2 is greater than number 1." << endl;
         break;
     default:
         break;
     }
+
 }
 
 bool desejaContinuar(char opcao) {
-    return (opcao == 'S' || opcao == 's') ? true : false;
+    return (opcao == 'Y' || opcao == 'y') ? true : false;
 }

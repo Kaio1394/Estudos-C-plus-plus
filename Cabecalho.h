@@ -2,8 +2,8 @@
 #define CABECALHO_H_INCLUDED
 #pragma once
 
-// Protótipo das funções
-// aqui indica o que estará disponível para o desenvolvedor
+// Function prototype
+// Here indicates what will be available to the developer
 void maiorNumero(int numero1, int numero2);
 bool desejaContinuar(char opcao);
 

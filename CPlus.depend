@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1655420886 source:c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\funcoes.cpp
+1655563519 source:c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\funcoes.cpp
 	<iostream>
 
-1655421065 source:c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\main.cpp
+1655562797 source:c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\main.cpp
 	<iostream>
 	"Cabecalho.h"
 
-1655420973 c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\cabecalho.h
+1655421377 c:\users\kaios\onedrive\documents\estudos-c-plus\cplus\cabecalho.h
 
